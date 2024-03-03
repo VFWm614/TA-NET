@@ -7,7 +7,7 @@ This repo is the implementation of "[TA-NET: Empowering Highly Efficient Traffic
 > 
 > [**UCF-crime dataset**](https://www.crcv.ucf.edu/projects/real-world/)
 
-Since our TA-NET focuses on traffic anomaly detection, we constructed a subset of the UCF-crime dataset containing only traffic scenes, named UCF-crime-traffic. **The file partitioning for UCF-crime-traffic can be obtained from**:
+Since our TA-NET focuses on traffic anomaly detection, we constructed a subset of the UCF-crime dataset containing only traffic scenes, named UCF-crime-traffic. The file partitioning for UCF-crime-traffic can be obtained from **UCF-crime-traffic index** in this project:
 
 
 **Additionally, we also provide video features extracted by UniformerV2 for convenient use:**
