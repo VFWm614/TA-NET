@@ -14,7 +14,8 @@ Since our TA-NET focuses on traffic anomaly detection, we constructed a subset o
 
 > [**TAD features**](https://1drv.ms/u/s!AjBCIlm4rsXenUCWS5MGu4H4qpBn?e=heWYaB)
 > 
-> [**UCF-crime-traffic features**]()
+> [**UCF-crime-traffic features**]() 
 
+Note: Due to the limitations of our device, only the first 10 min features are extracted if video longer than 10 min.
 
 # coming soon
