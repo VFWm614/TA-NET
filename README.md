@@ -24,7 +24,7 @@ Replace the path of dataset features and training sets in `train_config.yaml` wi
 Then, simply run the following commands:
 
 ```
-python train.py
+python Code/train.py
 ```
 
 # Testing
@@ -36,7 +36,7 @@ Then, replace the paths of dataset features and model weight in `test_config.yam
 After the setup, simply run the following commands:
 
 ```
-python test.py
+python Code/test.py
 ```
 
 # Citation
