@@ -19,12 +19,19 @@ Since our TA-NET focuses on traffic anomaly detection, we constructed a subset o
 Note: Due to the limitations of our device, only the first 10 min features of training videos were extracted if it longer than 10 min.
 
 # Training
+Replace the path of dataset features in `train_config.yaml` with yours.
+
+Then, simply run the following commands:
+
+```
+python train.py
+```
 
 # Testing
 Please find the model weights in the following:
 > [**pretrained model**](https://1drv.ms/f/s!AjBCIlm4rsXenUN507nR1chiacwT?e=A7C6bJ)
 
-Then, replace the paths of dataset features and model weight in `test_config.yaml` with your path.
+Then, replace the paths of dataset features and model weight in `test_config.yaml` with yours.
 
 After the setup, simply run the following commands:
 
