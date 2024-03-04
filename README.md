@@ -16,13 +16,21 @@ Since our TA-NET focuses on traffic anomaly detection, we constructed a subset o
 > 
 > [**UCF-crime-traffic features**](https://1drv.ms/u/s!AjBCIlm4rsXenULO0CPe0fQuoZof?e=zVTkiA) 
 
-Note: Due to the limitations of our device, only the first 10 min features are extracted if video longer than 10 min.
+Note: Due to the limitations of our device, only the first 10 min features of training videos were extracted if it longer than 10 min.
 
 # Training
 
 # Testing
 Please find the model weights in the following:
 > [**pretrained model**](https://1drv.ms/f/s!AjBCIlm4rsXenUN507nR1chiacwT?e=A7C6bJ)
+
+Then, replace the paths of dataset features and model weight in `test_config.yaml` with your path.
+
+After the setup, simply run the following commands:
+
+```
+python test.py
+```
 
 # Citation
 If you find this repo useful for your research, please consider citing our paper:
