@@ -19,7 +19,7 @@ Since our TA-NET focuses on traffic anomaly detection, we constructed a subset o
 Note: Due to the limitations of our device, only the first 10 min features of training videos were extracted if it longer than 10 min.
 
 # Training
-Replace the path of dataset features in `train_config.yaml` with yours.
+Replace the path of dataset features and training sets in `train_config.yaml` with yours.
 
 Then, simply run the following commands:
 
