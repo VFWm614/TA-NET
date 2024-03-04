@@ -1,0 +1,23 @@
+TRAIN:
+  dataset: 'TAD'
+  dataset_path: '../TAD-features_uniformerv2-k400-l14@16frames/'
+  SEED: 17
+  SEED_dataset: 44
+  batch_size: 5
+  epoch_num: 50
+  reg_weight: 0.000001
+  learning_rate: 0.00001
+UCF:
+  anomaly: 23
+  num_frames: 16
+TAD:
+  anomaly: 60
+  num_frames: 16
+TA_NET:
+  num_bags: 5
+  bag_idx: 3
+  width: 1024
+  layers: 6
+  heads: 16
+  layers_1: 6
+  heads_1: 16
