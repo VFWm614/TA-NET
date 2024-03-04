@@ -54,5 +54,3 @@ If you find this repo useful for your research, please consider citing our paper
   keywords={Feature extraction;Anomaly detection;Task analysis;Hidden Markov models;Supervised learning;Benchmark testing;Training;Feature extraction;anomaly detection;traffic anomaly detection;weakly supervised learning;multi-instance learning;transformer},
   doi={10.1109/TITS.2024.3365820}}
 ```
-
-# coming soon
