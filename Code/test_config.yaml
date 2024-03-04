@@ -1,0 +1,18 @@
+TEST:
+  dataset: 'TAD'
+  dataset_path: '../TAD-features_uniformerv2-k400-l14@16frames/'
+  model_path: '../TAD_UniformerV2_l14_f16_0.9447-0.7078.pth'
+UCF:
+  anomaly: 23
+  num_frames: 16
+TAD:
+  anomaly: 60
+  num_frames: 16
+TA_NET:
+  num_bags: 5
+  bag_idx: 3
+  width: 1024
+  layers: 6
+  heads: 16
+  layers_1: 6
+  heads_1: 16
