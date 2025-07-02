@@ -12,9 +12,9 @@ Since our TA-NET focuses on traffic anomaly detection, we constructed a subset o
 
 **Additionally, we also provide video features extracted by [UniformerV2](https://github.com/OpenGVLab/UniFormerV2):**
 
-> [**TAD features**](https://1drv.ms/u/s!AjBCIlm4rsXenUCWS5MGu4H4qpBn?e=heWYaB)
+> [**TAD features**](https://1drv.ms/f/c/dec5aeb859224230/EjBCIlm4rsUggN6-DgAAAAABm_Y3Dh-N8-aJiueBTSklZQ?e=nKigWN)
 > 
-> [**UCF-crime-traffic features**](https://1drv.ms/u/s!AjBCIlm4rsXenULO0CPe0fQuoZof?e=zVTkiA) 
+> [**UCF-crime-traffic features**](https://1drv.ms/f/c/dec5aeb859224230/EjBCIlm4rsUggN7BDgAAAAABwkCS_joPO0G9VJMuI7wLgg?e=7Ts8sl) 
 
 Note: Due to the limitations of our device, only the first 10 min features of training videos were extracted if it longer than 10 min.
 
